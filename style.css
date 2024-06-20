@@ -1,0 +1,124 @@
+body{
+    margin:                 0;
+    padding:                0;
+    width:                  100%;
+    height:                 100%;
+    background-color:       deepskyblue;
+}
+
+h1{
+    text-align:             center;
+    font-family:            Arial, Helvetica, sans-serif;
+    font-size:              35px;
+}
+
+
+#grid1-1{
+    position:                absolute;
+    left:                    0px;
+    top:                     100px;
+}
+
+#grid1-2{
+    position:               absolute;
+    left:                   200px;
+    top:                    100px;
+}
+
+#grid1-3{
+    position:               absolute;
+    left:                   400px;
+    top:                    100px;
+}
+
+#grid2-1{
+    position:               absolute;
+    left:                   0px;
+    top:                    300px;
+}
+
+#grid2-2{
+    position:               absolute;
+    left:                   200px;
+    top:                    300px;
+}
+
+#grid2-3{
+    position:               absolute;
+    left:                   400px;
+    top:                    300px;
+}
+
+#grid3-1{
+    position:               absolute;
+    left:                   0px;
+    top:                    500px;
+}
+
+#grid3-2{
+    position:               absolute;
+    left:                   200px;
+    top:                    500px;
+}
+
+#grid3-3{
+    position:               absolute;
+    left:                   400px;
+    top:                    500px;
+}
+
+
+#img1-1-draggable{
+    position:               absolute;
+    left:                   620px;
+    top:                    100px;
+}
+
+#img1-2-draggable{
+    position:               absolute;
+    left:                   780px;
+    top:                    100px;
+}
+
+#img1-3-draggable{
+    position:               absolute;
+    left:                   940px;
+    top:                    100px;
+}
+
+#img2-1-draggable{
+    position:               absolute;
+    left:                   620px;
+    top:                    300px;
+}
+
+#img2-2-draggable{
+    position:               absolute;
+    left:                   780px;
+    top:                    300px;
+}
+
+#img2-3-draggable{
+    position:               absolute;
+    left:                   940px;
+    top:                    300px;
+}
+
+#img3-1-draggable{
+    position:               absolute;
+    left:                   620px;
+    top:                    500px;
+}
+
+#img3-2-draggable{
+    position:               absolute;
+    left:                   780px;
+    top:                    500px;
+}
+
+#img3-3-draggable{
+    position:               absolute;
+    left:                   940px;
+    top:                    500px
+}
+
